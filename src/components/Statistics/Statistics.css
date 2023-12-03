@@ -1,0 +1,13 @@
+p {
+    margin-bottom: 5px;
+    margin-left: 10px;
+}
+
+
+body {
+    display: block;
+    margin-left: 10%;
+    margin-top: 2%;
+    font-family: monospace;
+    font-size: 22px;
+}

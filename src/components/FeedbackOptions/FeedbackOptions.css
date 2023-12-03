@@ -1,0 +1,12 @@
+button {
+    margin: 8px;
+    padding: 12px;
+    cursor: pointer;
+    background-color: aliceblue;
+    border-radius: 5px;
+}
+
+button:hover,
+button:focus {
+    background-color: lightpink ;
+}
